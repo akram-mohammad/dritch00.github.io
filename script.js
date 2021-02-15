@@ -2,7 +2,7 @@
 //  // 3.1
 
     var txtBox;``
-    var eq = [0];
+    var eqq = [0];
     var ew= [];
     var operate = [];
     var resultOp = [];
